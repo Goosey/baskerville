@@ -7,7 +7,7 @@
     line-height: 1em;
 }
 
-/* main styling */
+/*- main styling -*/
 body{
     background-color: hsl(34, 51%, 86%);
     color: black;
@@ -44,5 +44,62 @@ h1 {
     font-style: bold
 }
 
+blockquote {
+    font-style: italic;
+    font-size: 1.5rem;
+    color: rgb(233, 131, 6);
+    margin: 2rem 3rem 2rem 3rem;
+}
+
+h2 {
+    font-size: 1.999rem;
+    margin: 1rem 0 2rem 0;
+}
 
 
+/*- styling -*/
+a {
+    text-decoration: none;
+}
+
+    /*- nsv styling -*/
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color:rgb(178, 71, 29)
+        padding: 3rem 0;
+        font-size: 1rem;
+    }
+
+    nav ul {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: none;
+    }
+
+    nav a {
+        color:hsl(34, 51%, 86%)
+    }
+
+    nav a:hover {
+        border-bottom: none;
+        color:hsl(34, 51%, 86%);
+        transition: all 0.3s ease-in-out;
+    }
+
+
+            /*- footer styling -*/
+            footer {
+                text-align: centre;
+                font-size: 0.8rem;
+                padding-bottom: 4rem;
+            }

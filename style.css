@@ -1,3 +1,6 @@
-h1{
-    color:rgb(164, 52, 123);
+blockquote {
+    font-style:italic;
+    font-size: 1.5rem;
+    color: rgb(214, 138, 7);
+    margin: 2rem 3rem 2rem 3rem;
 }

@@ -35,3 +35,19 @@ nav {
     padding: 3rem 0;
     font-size: 1rem;
 }
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    background: none;
+}
+
+nav a {
+    color: rgb(0, 0%, 13%);
+}

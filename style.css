@@ -1,3 +1,17 @@
+/* main styling */
+body{
+    background-color: hsl(34, 51%, 86%);
+    font-family: baskerville-urw, serif;
+}
+
+/* styling section, header, footer */
+
+
+
+
+
+
+/* styling for blockquote */
 blockquote {
     font-style:italic;
     font-size: 1.5rem;

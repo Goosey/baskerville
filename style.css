@@ -114,6 +114,23 @@ a {
 
     }
 
+    th {
+        text-transform: uppercase;
+        font-weight: normal;
+        text-align: left;
+        color: hsl(34, 51%, 86%);
+        background:rgb(95, 19, 8);
+    }
+
+    th, td {
+        padding: 0.4em;
+    }
+
+    table, td {
+        background:rgb(233, 131, 6);
+        border: 2px solid hsl(34, 51%, 86%);
+    }
+
 
             /*- footer styling -*/
             footer {

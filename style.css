@@ -131,6 +131,12 @@ a {
         border: 2px solid hsl(34, 51%, 86%);
     }
 
+    /*- images -*/
+    img {
+        display: block;
+        margin: 8rem 0 2rem 0;
+
+    }
 
             /*- footer styling -*/
             footer {

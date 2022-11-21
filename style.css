@@ -104,7 +104,14 @@ a {
         border-spacing: 2px;
         margin-bottom: 2rem;
         width: 100%;
-        
+
+    }
+
+    caption {
+        margin: 1.5em 0;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+
     }
 
 
